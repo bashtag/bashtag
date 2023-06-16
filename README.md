@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bashtag
 - 👀 I’m interested in Solving Algorithms
-- 🌱 I’m currently learning C++ designs
+- 🌱 I’m currently learning JavaScript technologies
 - 📫 How to reach me linkedin.com/in/bilalgokce/
 
 <!---
